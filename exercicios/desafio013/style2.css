@@ -1,0 +1,10 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+td{
+    border: 2px solid black;
+    height: 50px;
+    width: 65px;
+}
