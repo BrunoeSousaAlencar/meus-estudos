@@ -2,8 +2,6 @@
 body{
     background-image: url(images/bg-pattern-bottom.svg);
     background-color: #0ba6ac;
-    width: 90vw;
-    background-repeat: repeat;
     font-size: 13px;
     background-position: left ;
     margin: 0;
@@ -22,7 +20,7 @@ body{
     color: rgba(92, 91, 89, 0.726);
     margin: auto;
     margin-top: 120px;
-    box-shadow: 2px 1px 8px rgba(0, 0, 0, 0.192);
+    box-shadow: 1px 2px 8px rgba(0, 0, 0, 0.192);
 }
 
 .perfil{
