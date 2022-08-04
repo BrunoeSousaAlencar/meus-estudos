@@ -1,0 +1,20 @@
+*{
+    border: 1px solid red;
+}
+body{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.flex-conteiner{
+    border: 1px solid #333;
+    width: 600px;
+    display: flex;
+}
+
+.box{
+    background-color: orange;
+    border: 2px solid gray;
+    padding: 0 40px;
+    border-radius: 5px;
+}
