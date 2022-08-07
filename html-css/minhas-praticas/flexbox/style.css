@@ -1,6 +1,8 @@
+/*
 *{
-  /*  border: 1px solid red; */
+   border: 1px solid red;
 }
+*/
 body{
     width: 80%;
     margin: 0 auto;
@@ -13,7 +15,7 @@ body{
     width: 500px;
     display: flex;
 
-    flex-direction: row;/* Iforma a direção dos itens */
+    flex-direction: row;/* Informa a direção dos itens */
     flex-wrap: wrap; /* Mantêm tudo dentro do contêiner */
 
     /* Ou usar */
@@ -53,6 +55,17 @@ body{
     flex: 1 1 45px;
 }
 
+/* aula 5 "justyfy-content"*/
+
+.flex-item-2 {
+    background: #8060da;
+
+}
+
+.flex-container:nth-child(1){
+   justify-content: flex-end;
+   color: blue;
+}
 
 
 
