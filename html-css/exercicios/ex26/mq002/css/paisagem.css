@@ -3,5 +3,6 @@
 /* Aperelho deitado (landscape) */
 
 body{
-    background-color: rgb(173, 57, 14);
+    background-image: url(../img/cev-landscape.jpg);
+    
 }

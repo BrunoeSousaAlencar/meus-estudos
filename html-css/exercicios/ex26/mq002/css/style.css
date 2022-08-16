@@ -11,12 +11,9 @@
 html, body{
     width: 100vw;
     height: 100vh;
-    background-color: rgb(52, 202, 195);
 }
 
 h1{
-    color: white;
-    text-shadow: 3px 3px 1px rgb(37, 146, 141) ;
     padding: 10px;
 }
 
