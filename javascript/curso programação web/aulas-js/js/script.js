@@ -1,5 +1,7 @@
-var nome, sobrenome;
+const pessoa = "Bruno";
 
+{
+    const pessoa = "joão"
+    alert(pessoa);
+}
 
-
-alert(c)
