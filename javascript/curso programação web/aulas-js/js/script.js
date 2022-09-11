@@ -1,3 +1,5 @@
-document.getElementById('texto').innerHTML = "Meu primeiro texto <b>JS!</b>";
+var nome, sobrenome;
 
-console.log('Isso é um console.log')
+
+
+alert(c)
